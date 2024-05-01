@@ -1,11 +1,25 @@
 html{
-    background-color: black;
+    background-color: #ffba95;
+
 }
 
 h1{
-    
+    color: #208ad8;
+    background-color: white;
 }
 
-h1{
-    color: green;
+p{
+    color: #a7306a;
+}
+
+div{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+}
+
+a{
+    background-color: purple;
 }
